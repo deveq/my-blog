@@ -1,0 +1,6 @@
+[submodule "my-blog-web"]
+	path = my-blog-web
+	url = git@github.com:deveq/my-blog-web.git
+[submodule "my-blog-content"]
+	path = my-blog-content
+	url = git@github.com:deveq/my-blog-content.git
